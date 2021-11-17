@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Receta
+comment1.params=t\u00EDtulo
+comment1.target=Receta(java.lang.String)
+comment2.params=cantidad\ unidad\ nombre
+comment2.target=boolean\ setIngredientes(double,\ java.lang.String,\ java.lang.String)
+comment3.params=cantidad\ nombre
+comment3.target=void\ setIngredientes(int,\ java.lang.String)
+comment4.params=
+comment4.target=int\ getcantIngredientes()
+numComments=5
