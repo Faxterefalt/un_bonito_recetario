@@ -7,6 +7,9 @@ public class Receta{
         this.título=título;
         ingredientes=new ArrayList<Ingrediente>();
     }
+    //sólo para verificar que el ingrediente se encuentra
+    //no hay mucha ciencia
+    //
     public boolean setIngredientes(double cantidad, String unidad, String nombre){
         Ingrediente nuevoIngre=new Ingrediente(cantidad,unidad,nombre);
         return ingredientes.add(nuevoIngre);
