@@ -19,7 +19,8 @@ public class Receta{
         int tamaño=ingredientes.size();
         return tamaño;
     }
- 
+  
+     
 }
 
 

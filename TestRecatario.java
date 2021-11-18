@@ -58,10 +58,5 @@ public class TestRecatario
         receta.setIngredientes(9.5, "tazas", "de café");
         assertEquals(6,receta.getcantIngredientes());
     }
-    @Test
-    public void testDevolverIngredientes(){
-        Receta receta = new Receta();
-        receta.getIngredientes();
-        
-    }
+    
 }
